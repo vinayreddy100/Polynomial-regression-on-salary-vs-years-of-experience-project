@@ -1,0 +1,2 @@
+# Polynomial-regression-on-salary-vs-years-of-experience-project
+Let's assume that you work as a consultant to a start-up company that has just started to hire employees. The HR director reached out to you and asked you to predict the salary of employees based on the number of years of experience. You suggested to use a polynomial regression model to try to create a model using the provided dataset.
